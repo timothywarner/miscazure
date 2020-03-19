@@ -1,4 +1,4 @@
-# How to Stay and Remain Current with Microsoft Azure
+# How to Get and Remain Current with Microsoft Azure
 
 * [Nashville Azure User Group, March 19, 2020](https://www.meetup.com/The-Nashville-Microsoft-Azure-Users-Group/events/269265834/)
 * Presenter: Tim Warner ([@TechTrainerTim](https://twitter.com/TechTrainerTim))
