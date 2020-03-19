@@ -18,7 +18,7 @@
 * [Channel 9](https://channel9.msdn.com/)
 * [Azure Overview](https://azure-overview.com/)
 * [Azure Heat Map](https://azurecharts.com/)
-
+* [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 
 ## Microsoft Azure Newsletters
 
