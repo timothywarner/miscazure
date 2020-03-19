@@ -1,2 +1,1 @@
-# miscazure
-Miscellaneous Microsoft Azure Community Resources
+#Miscellaneous Microsoft Azure Community Resources
