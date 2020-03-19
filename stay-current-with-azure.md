@@ -16,6 +16,9 @@
 * [Azure Community Support](https://azure.microsoft.com/en-us/support/community/)
 * [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
 * [Channel 9](https://channel9.msdn.com/)
+* [Azure Overview](https://azure-overview.com/)
+* [Azure Heat Map](https://azurecharts.com/)
+
 
 ## Microsoft Azure Newsletters
 
@@ -38,17 +41,23 @@
 
 ## Stay Current By Skills Development
 
-* Azure Documentation
-* Azure Architecture Center
-* Microsoft Learn
-* Azure Citadel
-* Pluralsight
-* Linux Academy
-* Cloud Academy
-* Skylines Academy
+* [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+* [Azure Citadel](https://azurecitadel.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Linux Academy](https://linuxacademy.com/)
+* [Cloud Academy](https://cloudacademy.com/)
+* [Skylines Academy](https://www.skylinesacademy.com/)
+* [Azure Solution Explorer](https://azurecharts.com/solutions)
 
 # Azure Certification Resources
 
-*
-
-
+* [Microsoft Role-Based Certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+* [Microsoft Certification Policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
+* [Microsoft Learning Blog](https://www.microsoft.com/en-us/learning/community-blog.aspx)
+* [Microsoft Certification Special Offers](https://www.microsoft.com/en-us/learning/offers.aspx)
+* [MeasureUp Practice Tests](https://www.measureup.com/azure-products)
+* [Whizlabs Practice Tests](https://www.whizlabs.com/microsoft-azure-certification-training-courses/)
+* [Pearson VUE](https://home.pearsonvue.com/Clients/Microsoft.aspx)
+* [Online Proctored Exam Delivery](https://www.microsoft.com/en-us/learning/online-exams.aspx)
